@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arthurhoffman
-- 📫 How to reach me arthurhoffmanndesouza@unifebe.edu.br
+- Hi, I’m Arthur Hoffmann
+
 
 
 <!---
